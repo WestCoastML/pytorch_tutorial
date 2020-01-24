@@ -27,7 +27,7 @@ Week|	Topic	|Presenter	|Notebook
 6/4|	Mobile/embedded Platform - Quantization, computational efficiency and deploy to edge	|Selly	|
 6/18|	RL	|Selly	|
 7/2|	ACKTR	|Roger	|
-7/16|	GAN / VAE	|Shalom	|
+7/16|	GAN / VAE	|Regu	|
 7/30|	 Nextgen CNN - Mobilnet, EfficientNet,	|Patrick	|
 
 A series of notebooks from our pytorch tutorial series
