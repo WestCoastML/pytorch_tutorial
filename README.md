@@ -1,5 +1,5 @@
 # Learning Pytorch
-Eastbay ML will be hosting a series of meetups as we learn pytorch together. Presenters will be volunteers from the group and are not domain experts but will lead the discussion as we learn together.  The meetups assume familiarity with python and some exposure to deep learning concepts.
+Eastbay ML will be hosting a series of meetups as we learn pytorch together. Presenters will be volunteers from the group and are not domain experts but will lead the discussion as we learn together.  The meetups assume familiarity with python and some exposure to deep learning concepts.  We hope to use this series as a way to explore implemenation details of popular architectures and methods.
 
 # Eastbay ML Pytorch series - guidelines				
 * Suitable both to people new to deep learning and people with experience on other frameworks			
