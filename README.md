@@ -16,7 +16,7 @@ Eastbay ML will be hosting a series of meetups as we learn pytorch together. Pre
 Week|	Topic	|Presenter	|Notebook
 -|-|-|-
 1/30|	Intro,Tensors, GPU,Autograd, nn-model, SGD	|Roger|	[lesson 1](https://colab.research.google.com/github/EastbayML/pytorch_tutorial/blob/master/pytorch_tutorial1.ipynb)
-2/13|	Torchvision,CNN image classification, Resnet,	|Roger	|
+2/13|	Torchvision,CNN image classification, Resnet,	|Jerry	|[lesson 2](https://github.com/EastbayML/pytorch_tutorial/blob/master/pytorch_tutorial2_Fashion_MNIST.ipynb)
 2/27|	Data Utilities; Optimizers -  Adam,  Regularization	|Shalom	|
 3/12|	visualization and tensorboard	|Jerry	|
 3/26|	CNN object detection	|Praveen	|
